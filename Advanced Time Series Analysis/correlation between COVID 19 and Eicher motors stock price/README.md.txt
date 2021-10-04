@@ -1,0 +1,1 @@
+This assignment shows how COVID 19 pandemic impact on the Eicher motors stock prices and the correlation between COVID 19 and stock price using machine learning/statistical model.
